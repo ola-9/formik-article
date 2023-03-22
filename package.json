@@ -1,0 +1,20 @@
+{
+  "name": "formik-article",
+  "version": "1.0.0",
+  "description": "Building forms with Formik in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ola-9/formik-article.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ola-9/formik-article/issues"
+  },
+  "homepage": "https://github.com/ola-9/formik-article#readme"
+}
